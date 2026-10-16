@@ -1,5 +1,23 @@
 # Step_semester_3
 
+## Date: 16-10-2026
+**Today's Work:**
+- Completed Week 10 class coding problems (M1–M5).
+- Practiced inheritance, abstraction, interfaces, polymorphism, collections, arrays, and object-oriented programming concepts.
+- Completed Week 10 Part B quiz questions and Part C concept questions.
+- Compiled and tested all five Week 10 Java programs.
+- Committed and pushed Week 10 work to `feature/session_10`.
+
+**Next Session Plan:**
+- Continue with Week 11 coursework.
+
+**Issues Faced:**
+- None.
+
+---
+
+
+
 ## Date: 19-09-2026
 **Today's Work:**
 - Completed Week 7 class/practice problems M1–M5.
